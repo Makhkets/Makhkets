@@ -2,6 +2,7 @@
 
 
 ## <center>` Backend Developer `</center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benefixx&show_icons=true&theme=radical)
 ***
 
 
@@ -28,3 +29,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/benefixx)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/aliev.rkh)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/yfnet)
+***
+
+
+
