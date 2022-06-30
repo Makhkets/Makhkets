@@ -1,7 +1,7 @@
 ![fds](assets/image_2022-06-10_18-54-33.png)
 
 
-## <center>` :--- Backend Developer ---: `</center>
+## <center>`Backend Developer`</center>
 ***
 
 
