@@ -1,10 +1,7 @@
 ![fds](assets/image_2022-06-10_18-54-33.png)
 
 
-```
-                                | :---- Backend Developer ----: 
-```
-
+## <center>` :--- Backend Developer ---: `</center>
 ***
 
 
