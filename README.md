@@ -1,13 +1,13 @@
 ![fds](assets/image_2022-06-10_18-54-33.png)
 
 
-<p style="text-align:center; color: red;">
 ```
-:---- Backend Developer ----:
+                                | :---- Backend Developer ----: 
 ```
-</p>
 
 ***
+
+
 
 ## My Achievements
 
