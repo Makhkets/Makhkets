@@ -1,7 +1,14 @@
-![fds](assets/image_2022-06-10_18-54-33.png)
+![BENEFIXX](assets/image_2022-06-10_18-54-33.png)
 
 
-## <center>`Backend Developer`</center>
+![](https://komarev.com/ghpvc/?username=Benefixx&color=green)
+![](https://komarev.com/ghpvc/?username=Benefix&color=green)
+
+
+
+```
+Backend Developer
+```
 ***
 
 
@@ -39,6 +46,5 @@
 ***
 ## Progress
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benefixx&show_icons=true&theme=radical)
-
 
 
