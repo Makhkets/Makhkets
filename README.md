@@ -1,14 +1,18 @@
 ![fds](assets/image_2022-06-10_18-54-33.png)
 
 
-## <center>` Backend Developer `</center>
+<p style="text-align:center; color: red;">
+```
+:---- Backend Developer ----:
+```
+</p>
+
 ***
-
-
 
 ## My Achievements
 
-- [Всероссийский открытый конкурс юношеских исследовательских работ имени Вернадского ( 1 место )](https://vernadsky.info/archive/2021_2022/laureats/)
+- 1 место - [Всероссийский открытый конкурс юношеских исследовательских работ имени Вернадского](https://vernadsky.info/archive/2021_2022/laureats/)
+- 1 место -  [Всероссийский открытый конкурс юношеских исследовательских работ имени Вернадского ( 1 место )](https://vernadsky.info/archive/2021_2022/laureats/)
 ***
 
 
