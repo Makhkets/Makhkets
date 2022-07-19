@@ -10,7 +10,8 @@ Backend Developer
 
 
 ## My Achievements
-- [Грамота от депортамента](assets/deportamentjpg.jpg)
+- [Грамота от Мэрии Грозного](assets/meriya.jpg)
+- [Грамота от Депортамента Грозного](assets/deportamentjpg.jpg)
 #
 - 1 место - [Всероссийский открытый конкурс юношеских исследовательских работ имени Вернадского](assets/vernadsky.png)
 - 1 место -  [Международный конкурс компьютерного творчества "Мастер информационных технологий](assets/masterit.jpg)
