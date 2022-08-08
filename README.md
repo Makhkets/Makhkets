@@ -1,4 +1,4 @@
-![BENEFIXX](assets/image_2022-06-10_18-54-33.png)
+![BENEFIXX](assets/benefixx.jpg)
 ![](https://komarev.com/ghpvc/?username=Benefixx&color=blueviolet&style=for-the-badge&)
 
 
