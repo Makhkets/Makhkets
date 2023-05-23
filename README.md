@@ -1,4 +1,4 @@
-![BENEFIXX](assets/ENCODEE.png)
+![BENEFIXX](assets/dollar.jpg)
 ![](https://komarev.com/ghpvc/?username=Benefixx&color=blueviolet&style=for-the-badge&)
 
 
