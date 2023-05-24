@@ -1,4 +1,4 @@
-![BENEFIXX](assets/dollar.jpg)
+![BENEFIXX](assets/ENCODEE.png)
 ![](https://komarev.com/ghpvc/?username=Benefixx&color=blueviolet&style=for-the-badge&)
 
 
@@ -45,5 +45,5 @@ Backend Developer
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/yfnet)
 ***
 ## Progress
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliev20&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makhkets&show_icons=true&theme=radical)
 
