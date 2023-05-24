@@ -1,4 +1,4 @@
-![BENEFIXX](assets/Makhkets.jpg)
+![BENEFIXX](assets/Makhkets2.jpg)
 ![](https://komarev.com/ghpvc/?username=Benefixx&color=blueviolet&style=for-the-badge&)
 
 
