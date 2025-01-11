@@ -9,8 +9,6 @@ Welcome to my profile! I'm a backend developer with a passion for solving comple
 
 ---
 
-## 🚀 My Achievements
-
 ### 🏅 Major Awards and Recognitions:
 - 🥇 **1st Place** - [All-Russian Vernadsky Youth Research Competition](assets/vernadsky.png)
 - 🥇 **1st Place** - [International IT Creativity Competition "Master of IT"](assets/masterit.png)
