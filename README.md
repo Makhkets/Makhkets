@@ -74,9 +74,7 @@ Additionally, I have received honors such as:
 ## 🌟 Additional Information:
 
 ### 🌱 Currently Learning:
-- Advanced Django Features
-- API Design Best Practices
-- System Architecture and Scaling for Backends
+- [11.01.2025] algorithms
 
 ### 🧩 Open Source Contributions:
 - Contributed to various open-source projects, enhancing functionality and fixing bugs.
