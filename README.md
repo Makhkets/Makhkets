@@ -74,7 +74,7 @@ Additionally, I have received honors such as:
 ## 🌟 Additional Information:
 
 ### 🌱 Currently Learning:
-- [11.01.2025] algorithms
+- [11.01.2025] __algorithms__
 
 ### 🧩 Open Source Contributions:
 - Contributed to various open-source projects, enhancing functionality and fixing bugs.
