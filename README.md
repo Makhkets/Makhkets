@@ -20,7 +20,7 @@ Welcome to my profile! I'm a backend developer with a passion for solving comple
 - 🥈 **2nd Place** - GGNTU Youth Tech Creativity (Award: 6666 RUB) [2021](assets/ggntu.png)
 - 🥈 **2nd Place** - [Republican Contest "INGENIUM 2021"](assets/ingenium2.png)
 
-For a full list of my awards, check out my [Complete Achievements](assets/all.png).  
+For a full list of my awards, check out my [Complete Achievements](assets/alls.png).  
 Additionally, I have received honors such as:  
 🏅 **Certificate of Merit** from the Grozny City Hall ([View](assets/meriya.png))  
 🏅 **Certificate of Merit** from the Grozny Department of Education ([View](assets/deportamentjpg.png))  
@@ -48,8 +48,8 @@ Additionally, I have received honors such as:
 
 ## 📞 Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Makhkets)
-[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/aliev.rkh)
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/yfnet)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/makhkets)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/makhkets)
 
 ---
 
@@ -64,5 +64,3 @@ Additionally, I have received honors such as:
 - Linux enthusiast — I love tweaking my development environment.
 
 ---
-
-Let me know if you want to further customize this layout! 😊
