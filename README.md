@@ -75,6 +75,7 @@ Additionally, I have received honors such as:
 
 ### 🌱 Currently Learning:
 - [11.01.2025] __algorithms__
+- [12.03.2025] __apache kafka__
 
 ### 🧩 Open Source Contributions:
 - Contributed to various open-source projects, enhancing functionality and fixing bugs.
