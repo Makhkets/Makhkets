@@ -28,42 +28,6 @@ Additionally, I have received honors such as:
 
 ---
 
-# 🚀 Tech Stack & Tools
-
-## 🛠️ Languages and Tools
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### **Frameworks**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Wails](https://img.shields.io/badge/Wails-5A67D8?style=for-the-badge&logo=go&logoColor=white)
-
-### **Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### **Databases**
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Operating Systems**
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-
----
-
-## 📈 Progress:
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makhkets&show_icons=true&theme=radical)
-
----
-
 ## 📞 Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Makhkets)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/makhkets)
@@ -72,7 +36,6 @@ Additionally, I have received honors such as:
 ---
 
 ## 🌟 Additional Information:
-
 ### 🌱 Currently Learning:
 - [11.01.2025] __algorithms__
 - [12.03.2025] __apache kafka__
