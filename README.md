@@ -9,6 +9,8 @@ Welcome to my profile! I'm a backend developer with a passion for solving comple
 
 ---
 
+
+
 ### 🏅 Major Awards and Recognitions:
 - 🥇 **1st Place** - [All-Russian Vernadsky Youth Research Competition](assets/vernadsky.png)
 - 🥇 **1st Place** - [International IT Creativity Competition "Master of IT"](assets/masterit.png)
@@ -27,6 +29,20 @@ Additionally, I have received honors such as:
 🏆 **Grant Winner** - Mayor of Grozny's Grant ([View](assets/grant2022.png))
 
 ---
+
+## <img src="https://github.com/MAKHTECH.png" width="40" style="vertical-align: middle; margin-right: 10px;"> **MAKHTECH**  
+🛠 Your gateway to secure authentication and smart analytics, built for the future.
+
+
+🌟 **Services**  
+- 🔹 SSO Service (gRPC + Paseto)  
+- 🔸 Analytics Service (ogen + kafka + clickhouse + prometheus) (development...)
+
+
+🔗 **[Перейти на страницу организации](https://github.com/MAKHTECH)**
+
+
+
 
 ## 📞 Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Makhkets)
