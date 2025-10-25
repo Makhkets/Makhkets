@@ -28,38 +28,3 @@ Additionally, I have received honors such as:
 🏅 **Certificate of Merit** from the Grozny Department of Education ([View](assets/deportamentjpg.png))  
 🏆 **Grant Winner** - Mayor of Grozny's Grant ([View](assets/grant2022.png))
 
----
-
-## <img src="https://github.com/MAKHTECH.png" width="40" style="vertical-align: middle; margin-right: 10px;"> **MAKHTECH**  
-🛠 Your gateway to secure authentication and smart analytics, built for the future.
-
-
-🌟 **Services**  
-- 🔹 SSO Service (gRPC + Paseto)  
-- 🔸 Analytics Service (ogen + kafka + clickhouse + prometheus) (development...)
-
-
-🔗 **[Перейти на страницу организации](https://github.com/MAKHTECH)**
-
-
-
-
-## 📞 Contacts:
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Makhkets)
-[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/makhkets)
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/makhkets)
-
----
-
-## 🌟 Additional Information:
-### 🌱 Currently Learning:
-- [11.01.2025] __algorithms__
-- [12.03.2025] __apache kafka__
-
-### 🧩 Open Source Contributions:
-- Contributed to various open-source projects, enhancing functionality and fixing bugs.
-- Actively involved in code reviews and community discussions to promote best practices.
-
----
-
-Feel free to reach out if you'd like to collaborate or discuss backend development!
